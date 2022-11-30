@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.order;
 
+import com.example.demo.AppConfig;
 import com.example.demo.member.Grade;
 import com.example.demo.member.Member;
 import com.example.demo.member.MemberService;
